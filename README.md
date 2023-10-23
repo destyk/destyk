@@ -33,6 +33,7 @@ Hi, I'm Nikita from Russia. Passionate about developing high-load web applicatio
     <a href="https://html.com/html5/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="30" height="30" /></a>&nbsp
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="30" height="30" /></a>&nbsp
     <a href="https://nodejs.org" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="30" height="30" /></a>&nbsp
+    <a href="https://www.rabbitmq.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/rabbitmq-icon.svg" title="RabbitMQ" alt="RabbitMQ" width="30" height="30" /></a>&nbsp
     <a href="https://sass-lang.com" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SASS/SCSS" alt="SASS/SCSS" width="30" height="30" /></a>&nbsp;
     <a href="https://webpack.js.org" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack" width="30" height="30" /></a>&nbsp;
     <a href="https://git-scm.com" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="30" height="30" /></a>&nbsp
@@ -42,6 +43,7 @@ Hi, I'm Nikita from Russia. Passionate about developing high-load web applicatio
     <a href="https://docker.com" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="30" height="30" /></a>&nbsp
     <a href="https://redis.io" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis" alt="Redis" width="30" height="30" /></a>&nbsp
     <a href="https://code.visualstudio.com" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="30" height="30" /></a>&nbsp
+</div>
 </div>
 
 #### OS:
