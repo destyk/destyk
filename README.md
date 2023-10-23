@@ -34,14 +34,21 @@ Hi, I'm Nikita from Russia. Passionate about developing high-load web applicatio
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="30" height="30" /></a>&nbsp
     <a href="https://nodejs.org" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="30" height="30" /></a>&nbsp
     <a href="https://www.rabbitmq.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/rabbitmq-icon.svg" title="RabbitMQ" alt="RabbitMQ" width="30" height="30" /></a>&nbsp
+    <a href="https://eslint.org" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" title="ESLint" alt="ESLint" width="30" height="30" /></a>&nbsp;
     <a href="https://sass-lang.com" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SASS/SCSS" alt="SASS/SCSS" width="30" height="30" /></a>&nbsp;
     <a href="https://webpack.js.org" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack" width="30" height="30" /></a>&nbsp;
+    <a href="https://babeljs.io" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-original.svg" title="Babel" alt="Babel" width="30" height="30" /></a>&nbsp;
     <a href="https://git-scm.com" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="30" height="30" /></a>&nbsp
+    <a href="https://www.gnu.org/software/bash/manual/bash.html" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="30" height="30" /></a>&nbsp
+    <a href="https://nginx.org" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Nginx" alt="Nginx" width="30" height="30" /></a>&nbsp;
     <a href="https://mysql.com" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="30" height="30" /></a>&nbsp
+    <a href="https://www.sqlite.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="30" height="30" /></a>&nbsp
     <a href="https://postgresql.com" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="30" height="30" /></a>&nbsp
     <a href="https://mongodb.com" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="30" height="30" /></a>&nbsp
+    <a href="https://sequelize.org" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg" title="Sequelize" alt="Sequelize" width="30" height="30" /></a>&nbsp
     <a href="https://docker.com" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="30" height="30" /></a>&nbsp
     <a href="https://redis.io" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis" alt="Redis" width="30" height="30" /></a>&nbsp
+    <a href="https://socket.io" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original.svg" title="Socket.IO" alt="Socket.IO" width="30" height="30" /></a>&nbsp;
     <a href="https://code.visualstudio.com" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="30" height="30" /></a>&nbsp
 </div>
 </div>
@@ -49,5 +56,6 @@ Hi, I'm Nikita from Russia. Passionate about developing high-load web applicatio
 #### OS:
 <div>
     <a href="https://ubuntu.com" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="30" height="30" /></a>&nbsp
+    <a href="https://debian.org" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" title="Debian" alt="Debian" width="30" height="30" /></a>&nbsp
     <a href="https://windows.microsoft.com" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="30" height="30" /></a>&nbsp
 </div>
