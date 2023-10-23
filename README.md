@@ -6,13 +6,13 @@ Hi, I'm Nikita from Russia. Passionate about developing high-load web applicatio
 
 <br />
 
-#### Learned Programming Languages:
+#### Programming Languages:
 <div>
     <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="30" height="30" /></a>&nbsp
     <a href="https://www.javascript.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="Javascript" width="30" height="30" /></a>&nbsp
     <a href="https://www.php.net/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="PHP" alt="PHP" width="30" height="30" /></a>&nbsp
-    <a href="https://www.python.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="PHP" alt="PHP" width="30" height="30" /></a>&nbsp
-    <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="PHP" alt="PHP" width="30" height="30" /></a>&nbsp
+    <a href="https://www.python.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="30" height="30" /></a>&nbsp
+    <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="30" height="30" /></a>&nbsp
 </div>
 
 #### Frameworks:
