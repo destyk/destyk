@@ -2,7 +2,7 @@
 
 Hi, I'm Nikita from Russia. Passionate about developing high-load web applications. Learning technologies that I found interesting. Well, I'm also a crazy fan of aesthetics and perfectionism :)
 
-[![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=Telegram)](https://t.me/destykarpov) [![Website](https://img.shields.io/badge/Website-ED760E?style=flat-square&logo=About.me)](https://destyk.github.io)
+[![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=Telegram)](https://t.me/destykarpov) [![Website](https://img.shields.io/badge/Website-ED760E?style=flat-square&logo=About.me)](https://destyk.ru)
 
 <br />
 
