@@ -17,7 +17,7 @@ Hi, I'm Nikita from Russia. Passionate about developing high-load web applicatio
 
 #### Frameworks:
 <div>
-    <a href="https://nestjs.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" title="Nest TS/JS" alt="Nest TS/JS" width="30" height="30" /></a>&nbsp
+    <a href="https://nestjs.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" title="Nest TS/JS" alt="Nest TS/JS" width="30" height="30" /></a>&nbsp
     <a href="https://nextjs.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next TS/JS" alt="Next TS/JS" width="30" height="30" /></a>&nbsp
     <a href="https://reactjs.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React TS/JS" alt="React TS/JS" width="30" height="30" /></a>&nbsp
     <a href="https://angular.io/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="30" height="30" /></a>&nbsp
@@ -26,7 +26,7 @@ Hi, I'm Nikita from Russia. Passionate about developing high-load web applicatio
     <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" title="Bootstrap" alt="Bootstrap" width="30" height="30" /></a>&nbsp
     <a href="https://phalcon.io/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/phalcon/phalcon-original.svg" title="PHP Phalcon" alt="PHP Phalcon" width="30" height="30" /></a>&nbsp
     <a href="https://codeigniter.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/codeigniter/codeigniter-plain.svg" title="PHP CodeIgniter" alt="PHP CodeIgniter" width="30" height="30" /></a>&nbsp
-    <a href="https://laravel.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" title="PHP Laravel" alt="PHP Laravel" width="30" height="30" /></a>&nbsp
+    <a href="https://laravel.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="PHP Laravel" alt="PHP Laravel" width="30" height="30" /></a>&nbsp
 </div>
 
 #### Tools:
