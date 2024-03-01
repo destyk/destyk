@@ -45,6 +45,7 @@ Hi, I'm Nikita from Russia. Passionate about developing high-load web applicatio
     <a href="https://mongodb.com" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="30" height="30" /></a>&nbsp
     <a href="https://sequelize.org" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg" title="Sequelize" alt="Sequelize" width="30" height="30" /></a>&nbsp
     <a href="https://socket.io" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original.svg" title="Socket.IO" alt="Socket.IO" width="30" height="30" /></a>&nbsp
+    <a href="https://mobx.js.org" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/mobx/mobx-plain.svg" title="MobX" alt="MobX" width="30" height="30" /></a>&nbsp
     <a href="https://www.jestjs.io/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/jest.svg" title="Jest" alt="Jest" width="30" height="30" /></a>&nbsp
     <a href="https://code.visualstudio.com" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="30" height="30" /></a>&nbsp
 </div>
