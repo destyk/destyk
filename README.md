@@ -37,6 +37,7 @@ Hi, I'm Nikita from Russia. Passionate about developing high-load web applicatio
     <a href="https://eslint.org" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" title="ESLint" alt="ESLint" width="30" height="30" /></a>&nbsp;
     <a href="https://sass-lang.com" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SASS/SCSS" alt="SASS/SCSS" width="30" height="30" /></a>&nbsp;
     <a href="https://webpack.js.org" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack" width="30" height="30" /></a>&nbsp;
+    <a href="https://vitejs.dev" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" title="ViteJS" alt="ViteJS" width="30" height="30" /></a>&nbsp;
     <a href="https://babeljs.io" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-original.svg" title="Babel" alt="Babel" width="30" height="30" /></a>&nbsp;
     <a href="https://git-scm.com" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="30" height="30" /></a>&nbsp
     <a href="https://mysql.com" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="30" height="30" /></a>&nbsp
