@@ -83,3 +83,7 @@ Hi, I'm Nikita from Russia. Passionate about developing high-load web applicatio
     <code><a href="https://windows.microsoft.com" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows" alt="Windows" width="30" height="30" /></a></code>&nbsp
     <code><a href="https://ru.wikipedia.org/wiki/MacOS" target="_blank"><img src="https://parsefiles.back4app.com/JPaQcFfEEQ1ePBxbf6wvzkPMEqKYHhPYv8boI1Rc/61f102b4024a1b52dd770031517a10a7_low_res_macOS_Sequoia.png" title="macOS Sequoia" alt="macOS Sequoia" width="30" height="30" /></a></code>&nbsp
 </div>
+
+#
+
+![footer](https://github.com/destyk/destyk/blob/main/images/footer.webp)
