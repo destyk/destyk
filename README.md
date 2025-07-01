@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=blur&height=200&color=gradient&text=TS%20Cheers!&textBg=false&fontSize=36&reversal=false&section=header&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=blur&height=200&&color=95:1abce5,5:614cb3&text=TS%20Cheers!&textBg=false&fontSize=36&reversal=false&section=header&animation=twinkling&fontColor=fff)
 
 <img align="right" width="300" alt="GIF" src="https://github.com/destyk/destyk/blob/main/images/coding.gif"/>
 
@@ -15,6 +15,8 @@
 <br />
 <br />
 <br />
+
+<img align="left" width="300px" alt="𝙶𝙸𝙵" src="https://png.pngtree.com/png-vector/20220521/ourmid/pngtree-programming-code-on-computer-screen-png-image_4672475.png" />
 
 #### Programming Languages:
 <div>
