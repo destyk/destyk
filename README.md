@@ -1,8 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=blur&height=200&color=gradient&text=TS%20Cheers!&textBg=false&fontSize=36&reversal=false&section=header&animation=twinkling)
 
 <div>
-<img align="right" width="350" alt="GIF" src="https://github.com/destyk/destyk/blob/main/images/coding.gif"/>
+<img align="right" width="300" alt="GIF" src="https://github.com/destyk/destyk/blob/main/images/coding.gif"/>
 
+<br />
 <br />
 <br />
 <br />
