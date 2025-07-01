@@ -16,8 +16,6 @@
 <br />
 <br />
 
-<img align="left" width="300px" alt="𝙶𝙸𝙵" src="https://png.pngtree.com/png-vector/20220521/ourmid/pngtree-programming-code-on-computer-screen-png-image_4672475.png" />
-
 #### Programming Languages:
 <div>
     <code><a href="https://www.typescriptlang.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="30" height="30" /></a></code>&nbsp
