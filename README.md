@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=blur&height=200&color=gradient&text=TS%20Cheers!&textBg=false&fontSize=36&reversal=false&section=header)
+![header](https://capsule-render.vercel.app/api?type=blur&height=200&color=gradient&text=TS%20Cheers!&textBg=false&fontSize=36&reversal=false&section=header&animation=fadeIn)
 
 Hi, I'm Nikita from Russia. Passionate about developing high-load web applications. Learning technologies that I found interesting. Well, I'm also a crazy fan of aesthetics and perfectionism :)
 
