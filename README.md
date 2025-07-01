@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=blur&height=200&color=gradient&text=TS%20Cheers!&textBg=false&fontSize=36&reversal=false&section=header&animation=twinkling)
 
-<div>
 <img align="right" width="300" alt="GIF" src="https://github.com/destyk/destyk/blob/main/images/coding.gif"/>
 
 <br />
@@ -12,7 +11,6 @@
 Hi, I'm Nikita from Russia. Passionate about developing high-load web applications. Learning technologies that I found interesting. Well, I'm also a crazy fan of aesthetics and perfectionism :)
 
 [![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=Telegram)](https://t.me/destykarpov) [![Website](https://img.shields.io/badge/Website-ED760E?style=flat-square&logo=About.me)](https://destyk.ru)
-</div>
 
 <br />
 <br />
